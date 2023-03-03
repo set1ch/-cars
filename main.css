@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-image: url("https://img.freepik.com/free-photo/fresh-palm-leaves-on-beige-background_53876-96703.jpg?w=740&t=st=1677248934~exp=1677249534~hmac=85a59a54549e05251fe798f6cfe1e2458f3ec7e93ede273f8f77f1d34afa0b19");
+    background-size: cover;
+
+
+
+    
+
+
+
+}
+
+.icon{
+    width: 50px;
+}
+header{
+    background-color: red;
+    height: 100px;
+}
+footer{
+    height: 100px;
+    background-color: red;
+
+}
+footer p{
+    background-color: green;
+}
